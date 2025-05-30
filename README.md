@@ -1,2 +1,3 @@
-# model_dc
-model_motor_dc
+# ### Model motor DC
+
+Estudi teòric del model motor
